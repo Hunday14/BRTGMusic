@@ -7,7 +7,7 @@ from youtubesearchpython import VideosSearch
 import re
 
 # ---------- KONFIG ----------
-TOKEN = "IDE_ÍRD_A_TOKENED"  # <--- ide másold a bot tokened
+TOKEN = "MTQyMDMyNDE4NzEyOTc3NDE1NA.GZbtgr.2I9U2D17CT1lRuTVr6iEK4C3nebBScfNCWJSWA"  # <--- ide másold a bot tokened
 PREFIX = "!"
 INTENTS = discord.Intents.default()
 INTENTS.message_content = True
